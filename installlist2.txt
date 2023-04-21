@@ -1,0 +1,207 @@
+pip install ipywidgets
+pip install jupyterlab
+pip install ipyfilechooser
+pip install langchain
+pip install pandas
+pip install --user unstructured
+pip install "unstructured[local-inference]"
+pip install python-magic-bin
+pip install python-magic-bin
+pip install pylibmagic
+pip install PyPDF2
+pip install openai
+pip install vectordb
+pip install Chroma
+pip install pyarrow
+pip install duckdb
+pip install nltk
+pip install ipyfilechooser
+pip jupyterlab
+pip install python-magic-bin
+pip install viola
+pip install SpeechRecognition==2.1.3
+pip install pdfkit
+pip install pydub
+pip install hurry.filesize
+pip install ffmpeg
+pip install whisper
+pip install voila
+pip install scikit-image
+pip install --upgrade tensorflow-cpu
+pip install torch
+pip install fpdf
+pip install tesseract-ocr-utils
+pip install pyllamacpp
+pip install ffprobe
+
+pip install webrtcvad==2.0.10 wave pydub simpleaudio numpy matplotlib
+
+
+https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
+git clone https://github.com/facebookresearch/detectron2.git
+cd detectron2
+python setup.py build develop
+
+# or if you are on macOS
+# MACOSX_DEPLOYMENT_TARGET=10.9 CC=clang CXX=clang++ python setup.py build develop
+
+# or, as an alternative to `setup.py`, do
+# pip install [--editable] 
+
+
+https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/
+refreshenv
+
+
+
+
+
+C:\ProgramData\anaconda3
+
+conda install -c conda-forge ipyfilechooser
+conda install -c anaconda ipywidgets
+pip install langchain
+pip install "unstructured[local-inference]
+pip install python-magic-bin
+conda install -c conda-forge poppler
+conda install -c conda-forge tesseract
+conda install -c conda-forge pypdf2
+conda install -c conda-forge openai
+pip install vectordb
+conda install -c conda-forge docarray
+conda install -c conda-forge python-duckdb
+conda install -c conda-forge pyarrow
+conda install -c conda-forge ffmpeg
+conda install -c conda-forge chroma-py
+conda install -c anaconda nltk
+conda install -c conda-forge pypdf
+conda install -c anaconda pandas
+conda install -c conda-forge python-pdfkit
+conda install -c conda-forge pydub
+conda install -c conda-forge speechrecognition
+conda install -c bioconda hurry.filesize
+conda install -c conda-forge ffmpeg
+conda create -n norfair python=3.9
+conda install -c anaconda pywin32
+conda install -c anaconda cython
+pip install git+https://github.com/facebookresearch/fvcore
+pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+pip install av
+conda install -c anaconda scipy
+conda install -c anaconda ninja
+pip install git+https://github.com/facebookresearch/detectron2.git
+conda install -c anaconda whisper
+conda install -c anaconda pypandoc
+conda activate detectron_env
+pip install cython
+conda install -c pytorch torchaudio
+conda install -c anaconda cudatoolkit
+git clone https://github.com/facebookresearch/detectron2.git
+cd detectron2
+python setup.py build develop
+conda install -c anaconda scikit-imagey
+conda create -n tf tensorflow
+conda activate tf
+
+C:\Windows\System32\detectron2>
+python setup.py build develop
+python -m pip install git+https://github.com/facebookresearch/detectron2.git
+
+python -m pip install git+https://github.com/Unstructured-IO/unstructured.git
+
+pip install python-magic-bin
+
+
+pip install pandoc
+
+
+
+git clone https://github.com/facebookresearch/detectron2.git
+python -m pip install -e detectron2
+
+
+
+
+pip install ipywidgets
+pip install ipyfilechooser
+pip install langchain
+pip install pandas
+pip install --user unstructured
+pip install "unstructured[local-inference]"
+pip install python-libmagic
+pip install pylibmagic
+pip install PyPDF2
+pip install openai
+pip install vectordb
+pip install Chroma
+pip install pyarrow
+pip install duckdb
+pip install nltk
+pip install ipyfilechooser
+pip install jupyterlab
+pip install python-magic-bin
+pip install viola
+pip install SpeechRecognition==2.1.3
+pip install pdfkit
+pip install pydub
+pip install hurry.filesize
+pip install ffmpeg
+
+
+
+refreshenv
+
+
+
+
+
+C:\ProgramData\anaconda3
+
+conda install -c conda-forge ipyfilechooser
+conda install -c anaconda ipywidgets
+pip install langchain
+pip install "unstructured[local-inference]
+conda install -c "bioconda/label/broken" libmagic
+conda install -c conda-forge poppler
+conda install -c conda-forge tesseract
+conda install -c conda-forge pypdf2
+conda install -c conda-forge openai
+pip install vectordb
+conda install -c conda-forge docarray
+conda install -c conda-forge python-duckdb
+conda install -c conda-forge pyarrow
+conda install -c conda-forge chroma-py
+conda install -c anaconda nltk
+conda install -c conda-forge pypdf
+conda install -c anaconda pandas
+conda install -c conda-forge python-pdfkit
+conda install -c conda-forge pydub
+conda install -c conda-forge speechrecognition
+conda install -c bioconda hurry.filesize
+conda install -c conda-forge ffmpeg
+
+
+libreoffice
+
+
+
+
+
+
+
+conda create -n norfair python=3.9
+conda install -c anaconda pywin32
+conda install -c anaconda cython
+pip install git+https://github.com/facebookresearch/fvcore
+pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+pip install git+https://github.com/Unstructured-IO/unstructured.git
+pip install av
+conda install -c anaconda scipy
+conda install -c anaconda ninja
+pip install git+https://github.com/facebookresearch/detectron2.git
+pip install "detectron2@git+https://github.com/facebookresearch/detectron2.git@v0.6#egg=detectron2"
+
+
+
+
+
